@@ -11,7 +11,7 @@ public class Testing2 {
 		System.setProperty("webdriver.chrome.driver", "/home/ibrar/Downloads/chromedriver");
 		WebDriver driver = new ChromeDriver();
 		
-		driver.get("https://beta05.uaccount.uk/");
+		driver.get("https://beta06.uaccount.uk/");
 		
 	}
 
